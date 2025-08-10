@@ -9,7 +9,10 @@ const LoginItem: FC<Iprops> = () => {
   return (
     <LoginItemWrapper>
       <div className="vip">
-        <img src="https://music.163.com/style/web2/img/dis_vip_card.png"></img>
+        <img
+          src="https://music.163.com/style/web2/img/dis_vip_card.png"
+          alt=""
+        ></img>
       </div>
       <div className="login">
         <div className="desc">

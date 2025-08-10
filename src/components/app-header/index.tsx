@@ -50,7 +50,7 @@ const AppHeader: FC<Iprops> = () => {
           </div>
           <div className="headercreater">创作者中心</div>
           <div className="headerlogin">
-            <a href="#">登录</a>
+            <a href="https://music.163.com/">登录</a>
           </div>
         </HeaderRight>
       </div>

@@ -6,7 +6,6 @@ import { NewAlbumWrapper } from './style'
 import Headerv1 from '@/base-ui/headerv1'
 import Recommenditem from '@/base-ui/recommenditem'
 import { CarouselRef } from 'antd/es/carousel'
-import Item from 'antd/es/list/Item'
 
 interface Obj {
   albumName: string
